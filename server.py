@@ -1,4 +1,5 @@
 # server.py
+# コミット用コメント
 import socket
 import subprocess
 
